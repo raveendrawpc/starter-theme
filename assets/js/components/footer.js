@@ -1,3 +1,3 @@
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('Footer script loaded');
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Footer script loaded");
 });
