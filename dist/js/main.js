@@ -7,8 +7,8 @@
   \****************************************/
 /***/ (() => {
 
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('Footer script loaded');
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Footer script loaded");
 });
 
 
@@ -20,8 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
   \****************************************/
 /***/ (() => {
 
-document.addEventListener('DOMContentLoaded', () => {
-  console.log('Header script loaded');
+document.addEventListener("DOMContentLoaded", () => {
+  console.log("Header script loaded");
 });
 
 
@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-console.log('Theme JS Loaded');
+console.log("Theme JS Loaded");
 
 })();
 

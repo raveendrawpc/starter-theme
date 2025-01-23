@@ -13,9 +13,9 @@ Welcome to the Starter Theme! This theme is designed to be a starting point for 
 
 1. Download the theme from the repository.
 2. Upload the theme to your WordPress installation:
-    - Go to `Appearance > Themes > Add New`.
-    - Click `Upload Theme` and select the downloaded zip file.
-    - Click `Install Now` and then `Activate`.
+   - Go to `Appearance > Themes > Add New`.
+   - Click `Upload Theme` and select the downloaded zip file.
+   - Click `Install Now` and then `Activate`.
 
 ## Usage
 

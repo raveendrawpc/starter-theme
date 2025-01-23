@@ -1,4 +1,4 @@
-import './components/header';
-import './components/footer';
+import "./components/header";
+import "./components/footer";
 
-console.log('Theme JS Loaded');
+console.log("Theme JS Loaded");
