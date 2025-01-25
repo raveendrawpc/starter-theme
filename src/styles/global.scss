@@ -1,0 +1,17 @@
+// src/styles/global.scss
+
+@use "variables";
+
+body {
+  font-family: variables.$font-stack;
+  background-color: #f0f0f0;
+  color: variables.$secondary-color;
+}
+
+.site-main {
+  padding: 20px;
+  background-color: #fff;
+  margin: 20px auto;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

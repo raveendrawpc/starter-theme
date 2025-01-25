@@ -1,0 +1,12 @@
+// src/styles/index.scss
+
+// Import Bootstrap
+@use "~bootstrap/scss/bootstrap" as *;
+
+@use "variables";
+@use "mixins";
+@use "global";
+@use "components/header";
+@use "components/footer";
+@use "components/buttons";
+@use "layouts/front-page";

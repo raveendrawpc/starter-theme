@@ -1,0 +1,14 @@
+// src/styles/components/header.scss
+
+@use "../variables";
+
+.site-header {
+  // background-color: variables.$primary-color;
+  padding: 20px;
+  color: #fff;
+
+  .site-title {
+    font-size: 2rem;
+    margin: 0;
+  }
+}
