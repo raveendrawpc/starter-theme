@@ -1,6 +1,19 @@
 /*
 Theme Name: Starter Theme
+Theme URI: https://example.com/starter-theme
 Author: Your Name
+Author URI: https://example.com
+Description: A modern WordPress theme built with @wordpress/scripts, SCSS, and JavaScript. This theme is designed to be modular, responsive, and easy to customize.
 Version: 1.0.0
-Description: A starter WordPress theme using WP Scripts, SCSS, and JS.
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: starter-theme
+Tags: responsive-layout, custom-colors, custom-menu, featured-images, theme-options, translation-ready
 */
+
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

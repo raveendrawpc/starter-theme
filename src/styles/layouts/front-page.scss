@@ -1,0 +1,11 @@
+// src/styles/layouts/front-page.scss
+
+@use "../variables";
+@use "../mixins";
+
+.front-page-hero {
+  @include mixins.flex-center;
+  height: 400px;
+  background-color: variables.$secondary-color;
+  color: #fff;
+}
